@@ -59,3 +59,7 @@
 ## 🎯 기획 배경  
 
 출판 시장은 여전히 연간 5조 원 규모로 견고히 유지되고 있습니다. 디지털 시대에 맞춘 편리함과 종이책 특유의 따스함을 결합해, 독자들이 쉽고 즐겁게 책을 사고팔 수 있는 온라인 공간을 만들고자 했습니다.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krgh23/Bookjuk_EC2/main/북적.png" alt="북적북적 로고" width="200"/>
+</p>
