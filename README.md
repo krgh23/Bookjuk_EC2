@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krgh23/Bookjuk_EC2/bookjuk_frontend/public/logo.png" alt="북적북적 로고" width="600"/>
+  <img src="https://raw.githubusercontent.com/krgh23/Bookjuk_EC2/mian/bookjuk_frontend/public/logo.png" alt="북적북적 로고" width="600"/>
 </p>
 
 # 📚 북적북적 E-commerce Platform
