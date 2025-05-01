@@ -28,36 +28,37 @@
 
 ## 🛠️ Tech Stack
 
-#### 🔙 Backend
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Java&message=&color=007396&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/static/v1?label=Spring%20Boot&message=&color=6db33f&style=flat-square" alt="Spring Boot" />
-  <img src="https://img.shields.io/static/v1?label=JPA&message=&color=6f5499&style=flat-square" alt="JPA" />
-  <img src="https://img.shields.io/static/v1?label=MyBatis&message=&color=00963f&style=flat-square" alt="MyBatis" />
-  <img src="https://img.shields.io/static/v1?label=PortOne&message=&color=343434&style=flat-square" alt="PortOne" />
+### 🔙 Backend
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6db33f&style=flat-square" alt="Spring Boot" />
+  <img src="https://img.shields.io/static/v1?label=&message=JPA&color=6f5499&style=flat-square" alt="JPA" />
+  <img src="https://img.shields.io/static/v1?label=&message=MyBatis&color=00963f&style=flat-square" alt="MyBatis" />
+  <img src="https://img.shields.io/static/v1?label=&message=PortOne&color=343434&style=flat-square" alt="PortOne" />
 </p>
 
-#### 🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=React.js&message=&color=61dafb&style=flat-square" alt="React.js" />
-  <img src="https://img.shields.io/static/v1?label=Axios&message=&color=5a29e4&style=flat-square" alt="Axios" />
-  <img src="https://img.shields.io/static/v1?label=Bootstrap&message=&color=7952b3&style=flat-square" alt="Bootstrap" />
-  <img src="https://img.shields.io/static/v1?label=Toastify&message=&color=4fa94d&style=flat-square" alt="React-Toastify" />
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=React.js&color=61dafb&style=flat-square" alt="React.js" />
+  <img src="https://img.shields.io/static/v1?label=&message=Axios&color=5a29e4&style=flat-square" alt="Axios" />
+  <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952b3&style=flat-square" alt="Bootstrap" />
+  <img src="https://img.shields.io/static/v1?label=&message=React-Toastify&color=4fa94d&style=flat-square" alt="React-Toastify" />
 </p>
 
-#### 🗄️ Database
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=MySQL&message=&color=4479a1&style=flat-square" alt="MySQL" />
+### 🗄️ Database
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479a1&style=flat-square" alt="MySQL" />
 </p>
 
-#### ⚙️ Infrastructure & CI/CD
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Docker&message=&color=2496ed&style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/static/v1?label=AWS%20EC2&message=&color=ff9900&style=flat-square" alt="AWS EC2" />
-  <img src="https://img.shields.io/static/v1?label=Nginx&message=&color=009639&style=flat-square" alt="Nginx" />
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=&color=181717&style=flat-square" alt="GitHub" />
-  <img src="https://img.shields.io/static/v1?label=Sourcetree&message=&color=0046ad&style=flat-square" alt="Sourcetree" />
+### ⚙️ Infrastructure & CI/CD
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ed&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/static/v1?label=&message=AWS%20EC2&color=ff9900&style=flat-square" alt="AWS EC2" />
+  <img src="https://img.shields.io/static/v1?label=&message=Nginx&color=009639&style=flat-square" alt="Nginx" />
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/static/v1?label=&message=Sourcetree&color=0046ad&style=flat-square" alt="Sourcetree" />
 </p>
+
 
 ## 🎯 기획 배경  
 
