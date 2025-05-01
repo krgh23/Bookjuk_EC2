@@ -3,7 +3,6 @@
 ## ✨ Project Overview
 “북적북적”은 신간·중고 도서를 쉽고 빠르게 확인·거래할 수 있는 풀스택 전자상거래 플랫폼입니다.
 
-- **GitHub**: [바로가기](https://github.com/krgh23/Bookjuk-EC2.git)  
 - **Live Demo**: [바로가기](http://52.79.159.149/)  
 - **Swagger UI**: [바로가기](http://52.79.159.149:8080/swagger-ui/index.html)  
 - **관리자 계정**  
