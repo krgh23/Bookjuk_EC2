@@ -26,33 +26,33 @@
 
 ### 🔙 Backend
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6db33f&style=flat-square" alt="Spring Boot" />
-  <img src="https://img.shields.io/static/v1?label=&message=JPA&color=6f5499&style=flat-square" alt="JPA" />
-  <img src="https://img.shields.io/static/v1?label=&message=MyBatis&color=00963f&style=flat-square" alt="MyBatis" />
-  <img src="https://img.shields.io/static/v1?label=&message=PortOne&color=343434&style=flat-square" alt="PortOne" />
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=flat-square" alt="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6db33f&style=flat-square" alt="Spring Boot" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=JPA&color=6f5499&style=flat-square" alt="JPA" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=MyBatis&color=00963f&style=flat-square" alt="MyBatis" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=PortOne&color=343434&style=flat-square" alt="PortOne" /></a>
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=React.js&color=61dafb&style=flat-square" alt="React.js" />
-  <img src="https://img.shields.io/static/v1?label=&message=Axios&color=5a29e4&style=flat-square" alt="Axios" />
-  <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952b3&style=flat-square" alt="Bootstrap" />
-  <img src="https://img.shields.io/static/v1?label=&message=React-Toastify&color=4fa94d&style=flat-square" alt="React-Toastify" />
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=React.js&color=61dafb&style=flat-square" alt="React.js" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Axios&color=5a29e4&style=flat-square" alt="Axios" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952b3&style=flat-square" alt="Bootstrap" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=React-Toastify&color=4fa94d&style=flat-square" alt="React-Toastify" /></a>
 </p>
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479a1&style=flat-square" alt="MySQL" />
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479a1&style=flat-square" alt="MySQL" /></a>
 </p>
 
 ### ⚙️ Infrastructure & CI/CD
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ed&style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/static/v1?label=&message=AWS%20EC2&color=ff9900&style=flat-square" alt="AWS EC2" />
-  <img src="https://img.shields.io/static/v1?label=&message=Nginx&color=009639&style=flat-square" alt="Nginx" />
-  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat-square" alt="GitHub" />
-  <img src="https://img.shields.io/static/v1?label=&message=Sourcetree&color=0046ad&style=flat-square" alt="Sourcetree" />
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ed&style=flat-square" alt="Docker" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=AWS%20EC2&color=ff9900&style=flat-square" alt="AWS EC2" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Nginx&color=009639&style=flat-square" alt="Nginx" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat-square" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Sourcetree&color=0046ad&style=flat-square" alt="Sourcetree" /></a>
 </p>
 
 
